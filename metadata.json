@@ -1,0 +1,6 @@
+{
+  "name": "RT: O TRIO",
+  "description": "Três animais. Uma escola. Zero sossego. Sandbox 3D voxel em mundo aberto numa escola brasileira viva.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
